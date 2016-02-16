@@ -1,0 +1,28 @@
+name: Huanchao Tang
+favicon: null
+layout_spectrum: 0.9427221152000129
+typography_spectrum: 0.42991645028814673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12490813410840929
+  lightness: 0.29311042930930853
+  saturation: 0.9622076037339866
+  rhythmicContrast: 0.4350429573096335
+purpose: []
